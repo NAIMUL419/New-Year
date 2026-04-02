@@ -40,17 +40,17 @@
 .off h1{
     color: #FF0000;
     font-size: 60px;
-    padding-left: 500px;
+    padding-left: 450px;
     margin-top: 30px;
 }
 .off p{
     color: #FF0000;
-    padding-left: 500px;
+    padding-left: 450px;
     padding-top: 20px;
 }
 .off h2{
     font-size: 34px;
-    padding-left: 500px;
+    padding-left: 450px;
     padding-top: 10px;
 }
 .off img{
@@ -121,6 +121,7 @@
     border-radius: 8px;
     font-size: 18px;
     margin-top: 30px;
+    cursor: pointer;
 }
 .new{
     width: 1068px;
@@ -176,4 +177,48 @@
 }
 .year img{
     padding-top: 30px;
+}
+.what{
+    width: 1068px;
+    height: 700px;
+    margin-left: 100px;
+    position: relative;
+}
+.what h3{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 430px;
+}
+.what h1{
+     font-family: "Merriweather", serif;
+    font-size: 50px;
+    padding-left: 320px;
+    line-height: 90px;
+}
+.what span{
+    font-family: "Merriweather", serif;
+}
+.what p{
+    font-weight: 300;
+    color: rgb(116, 115, 115);
+    padding: 0px 150px 0px 150px;
+    text-align: center;
+    line-height: 25px;
+}
+#one{
+    top: 280px;
+    left: 70px;
+    position: absolute;
+} 
+#two{
+    position: absolute;
+    left: 770px;
+    top: 240px;
+}
+#three{
+    padding-top: 330px;
+}
+.best h4{
+    color: #FF0000;
+    margin-left: 100px;
 }
