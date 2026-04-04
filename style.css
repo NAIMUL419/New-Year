@@ -221,4 +221,123 @@
 .best h4{
     color: #FF0000;
     margin-left: 100px;
+    margin-top: 80px;
+}
+.best h1{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: "Merriweather", serif;
+}
+.best p{
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: 10px;
+    line-height: 24px;
+    color: rgb(116, 115, 115);
+}
+.div1{
+    display: flex;
+    width: 1105px;
+    justify-content: space-evenly;
+    margin-left: 85px;
+    margin-top: 25px;
+}
+.div2{
+    display: flex;
+    width: 1105px;
+    justify-content: space-evenly;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.sub{
+   width: 1070px;
+   height: 450px; 
+   background: linear-gradient(rgba(250, 0, 0, 0.07));
+   margin-left: 103px;
+   margin-top: 100px;
+   border-radius: 10px;
+}
+.stamp{
+    padding-left: 480px;
+    padding-top: 60px;
+}
+.sub h1{
+    font-size: 35px;
+    font-family: "Merriweather", serif;
+    padding-left: 360px;
+    padding-top: 20px;
+}
+.sub p{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 25px;
+    color: rgb(87, 86, 86);
+}
+.sub input{
+    width: 370px;
+    height: 50px;
+    margin-left: 280px;
+    padding-left: 20px;
+    margin-top: 40px;
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+}
+.sub button{
+    width: 120px;
+    height: 50px;
+    border: none;
+    background-color: #FF0000;
+    color: white;
+    border-radius: 0px 50px 50px 0px;
+}
+.foot{
+    background-color: #070211;
+    margin-top: 80px;
+    height: 400px;
+}
+.foot1{
+    height: 150px;
+    border-bottom: 1px solid rgb(81, 79, 79);
+    width: 1070px;
+    margin-left: 100px;
+    display: flex;
+}
+.foot1 p{
+    color: white;
+}
+.divs{
+    width: 300px;
+    height: 70px;
+    margin-top: 50px;
+    line-height: 25px;
+}
+.divc{
+     width: 340px;
+    height: 110px;
+    margin-top: 20px;
+    line-height: 25px;
+    margin-left: 500px;
+}
+.foot2{
+    border-bottom: 1px solid rgb(81, 79, 79);
+    width: 1070px;
+    height: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.foot2 img{
+    padding: 20px 20px 0 0;
+    padding-bottom: 18px;
+}
+.foot3{
+    display: flex;
+    color: white;
+    width: 1070px;
+    margin-left: 100px;
+    justify-content: space-between;
+    margin-top: 40px;
 }
